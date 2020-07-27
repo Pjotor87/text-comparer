@@ -1,0 +1,5 @@
+Gemfile
+-------
+Contains all the packages the project uses.
+bundle install
+  Installs all packages in the project
