@@ -6,7 +6,8 @@ describe "Start page" do
     expect(last_response).to be_ok
   end
 
-  xit "fetches some data from a public url" do
-
+  it "fetches some data from a public url" do
+    get '/req/'
+    expect(last_response.body).to include("Thai Embassy Stockholm")
   end
 end
