@@ -3,6 +3,9 @@ Gemfile
 Contains all the packages the project uses.
 bundle install
   Installs all packages in the project
+
+RSpec
+-----
 rspec --init
   Initializes rspec in the project (creates the spec folder and .rspec file)
 rspec
