@@ -10,3 +10,8 @@ rspec --init
   Initializes rspec in the project (creates the spec folder and .rspec file)
 rspec
   Runs tests in spec files
+
+Atom - Useful IDE packages
+--------------------------
+language-slim
+linter-slim
