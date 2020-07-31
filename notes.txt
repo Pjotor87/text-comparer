@@ -20,3 +20,8 @@ Resources
 ---------
 Modular pattern guide: https://learn.co/lessons/sinatra-basics
 Multiple controllers guide: https://learn.co/lessons/sinatra-multiple-controllers
+
+Personal log
+------------
+2020-07-31 -> Changed this value in production.rb because it failed when using the production environment flag
+  config.eager_load = false
