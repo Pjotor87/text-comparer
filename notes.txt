@@ -15,3 +15,8 @@ Atom - Useful IDE packages
 --------------------------
 language-slim
 linter-slim
+
+Resources
+---------
+Modular pattern guide: https://learn.co/lessons/sinatra-basics
+Multiple controllers guide: https://learn.co/lessons/sinatra-multiple-controllers
