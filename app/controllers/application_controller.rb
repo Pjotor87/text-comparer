@@ -3,7 +3,7 @@ class ApplicationController < Sinatra::Base
     redirect '/index'
   end
   get '/index' do
-    "Hello Sinatra!"
+    slim :'index'
   end
   get '/test' do
     "Hello test route!"
